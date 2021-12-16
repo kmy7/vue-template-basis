@@ -1,7 +1,7 @@
 # Vue2.X 기본 템플릿
 ## 초기화
 - 초기화 : `npm install --no-audit --no-fund`
-- 
+
 ## 추가 설치 패키지
 - vue
 
