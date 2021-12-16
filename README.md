@@ -1,4 +1,7 @@
 # Vue2.X 기본 템플릿
+## 초기화
+- 초기화 : `npm install --no-audit --no-fund`
+- 
 ## 추가 설치 패키지
 - vue
 
@@ -12,7 +15,6 @@ __- `npm i -D vue-loader vue-style-loader @vue/compiler-sfc --no-audit --no-fund
 
 
 ## 사용방법
-- 초기화 : `npm install --no-audit --no-fund`
 - 개발용 : `npm run dev`
 - 운영용 : `npm run buld`
 
