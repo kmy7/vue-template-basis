@@ -1,12 +1,12 @@
 # Vue2.X 기본 템플릿
-- 추가 설치 패키지
-__vue__  
-- `npm i vue --no-audit –no-fund`
+## 추가 설치 패키지
+- _vue__  
+__ - `npm i vue --no-audit –no-fund`
 
-__vue-loader@next__
-__vue-style-loader__
-__@vue/compiler-sfc__
-- `npm i -D vue-loader vue-style-loader @vue/compiler-sfc --no-audit --no-fund`
+- vue-loader@next__
+- vue-style-loader__
+- @vue/compiler-sfc__
+__- `npm i -D vue-loader vue-style-loader @vue/compiler-sfc --no-audit --no-fund`
 
 
 ## 사용방법
