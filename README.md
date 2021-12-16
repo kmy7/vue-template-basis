@@ -2,13 +2,13 @@
 ## 추가 설치 패키지
 - vue
 
-__ - `npm i vue --no-audit –no-fund` __
+__- `npm i vue --no-audit –no-fund`__
 
 - vue-loader@next
 - vue-style-loader
 - @vue/compiler-sfc
  
-__- `npm i -D vue-loader vue-style-loader @vue/compiler-sfc --no-audit --no-fund` __
+__- `npm i -D vue-loader vue-style-loader @vue/compiler-sfc --no-audit --no-fund`__
 
 
 ## 사용방법
